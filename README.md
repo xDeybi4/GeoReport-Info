@@ -29,7 +29,7 @@ Cambios en esta Política de Privacidad
 Nos reservamos el derecho de actualizar nuestra Política de Privacidad de vez en cuando. Te notificaremos cualquier cambio publicando la nueva Política de Privacidad en esta página.
 
 Contacto
-Si tienes alguna pregunta o inquietud sobre nuestra Política de Privacidad, no dudes en contactarnos a través de [tu dirección de correo electrónico].
+Si tienes alguna pregunta o inquietud sobre nuestra Política de Privacidad, no dudes en contactarnos a través de deybirivera4@outlook.es.
 
 Al utilizar la Aplicación, aceptas los términos de esta Política de Privacidad.
 
