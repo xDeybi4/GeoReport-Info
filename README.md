@@ -47,11 +47,9 @@ Reportes Simples y Rápidos: Con unos pocos toques en tu pantalla, puedes enviar
 
 Ubicación Precisa: Utilizamos la tecnología de localización para asegurarnos de que cada informe esté vinculado a la ubicación exacta del problema. Esto facilita a las autoridades y equipos de mantenimiento abordar los problemas de manera rápida y efectiva.
 
-Seguimiento en Tiempo Real: Mantente informado sobre el estado de tus informes. GeoReport te proporciona actualizaciones en tiempo real sobre el progreso y la resolución de los problemas que has reportado.
+Seguimiento en Tiempo Real: Mantente informado sobre el estado de tus informes. GeoReport te proporciona actualizaciones en tiempo real sobre el progreso de los problemas que has reportado.
 
 Comunidad Activa: Únete a una comunidad comprometida de ciudadanos que comparten tu interés en mejorar la calidad de vida en la ciudad. Participa en discusiones, comparte ideas y colabora para hacer que tu entorno sea más seguro y eficiente.
-
-Colaboración con Autoridades Locales: Trabajamos en estrecha colaboración con las autoridades locales para garantizar que tus informes lleguen a las personas adecuadas. GeoReport actúa como un puente entre los ciudadanos y las entidades responsables, facilitando una comunicación efectiva.
 
 Reconocimiento Ciudadano: ¡Celebra tus contribuciones! GeoReport reconoce y agradece tu participación activa en la mejora de la infraestructura urbana. Obtén insignias y reconocimientos por tu compromiso constante.
 
